@@ -1,9 +1,9 @@
-const cacheName = "OUTFOX-OUTFOX Rugby-1.0.0.0";
+const cacheName = "Appulab-AWS WebRequest-0.0.1";
 const contentToCache = [
-    "Build/OUTFOX-Web-Build.loader.js",
-    "Build/OUTFOX-Web-Build.framework.js",
-    "Build/OUTFOX-Web-Build.data",
-    "Build/OUTFOX-Web-Build.wasm",
+    "Build/Web.loader.js",
+    "Build/Web.framework.js.gz",
+    "Build/Web.data.gz",
+    "Build/Web.wasm.gz",
     "TemplateData/style.css"
 
 ];

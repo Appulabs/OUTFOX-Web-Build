@@ -1,9 +1,9 @@
 {
-    "name": "OUTFOX Rugby",
-    "short_name": "OUTFOX Rugby",
+    "name": "AWS WebRequest",
+    "short_name": "AWS WebRequest",
     "start_url": "index.html",
     "display": "fullscreen",
-    "background_color": "#00357F",
+    "background_color": "#231F20",
     "theme_color": "#000",
     "description": "",
     "icons": [{
